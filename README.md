@@ -14,3 +14,4 @@
 - [[카드 뭉치](https://school.programmers.co.kr/learn/courses/30/lessons/159994)]
 - [[둘만의 암호](https://school.programmers.co.kr/learn/courses/30/lessons/155652)]
 - [[크기가 작은 부분 문자열](https://school.programmers.co.kr/learn/courses/30/lessons/147355)]
+- [[가장 가까운 글자](https://school.programmers.co.kr/learn/courses/30/lessons/142086)]
