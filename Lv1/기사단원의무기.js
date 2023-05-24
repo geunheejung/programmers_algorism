@@ -27,7 +27,6 @@ const findFn = (rest) => {
           obj[row] += 1;
         }
       }
-      // return 2;
     }
   }
 
@@ -39,12 +38,9 @@ const findFn = (rest) => {
 
 const solution = (number, limit, power) => {
   let answer = 0;
-  const list = [];
 
   for (let i = 1; i <= number; i++) {
     const result = findFn(i);
-
-    list.push({ i, result });
     if (result > limit) {
       answer += power;
       continue;
