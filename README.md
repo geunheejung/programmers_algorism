@@ -17,3 +17,4 @@
 - [[가장 가까운 글자](https://school.programmers.co.kr/learn/courses/30/lessons/142086)]
 - [[문자열 나누기](https://school.programmers.co.kr/learn/courses/30/lessons/140108)]
 - [[명예의 전당](https://school.programmers.co.kr/learn/courses/30/lessons/138477)]
+- [[기사단원의 무기](https://school.programmers.co.kr/learn/courses/30/lessons/136798)]
