@@ -21,3 +21,4 @@
 - [[과일 장수](https://school.programmers.co.kr/learn/courses/30/lessons/135808)]
 - [[푸드 파이트 대회](https://school.programmers.co.kr/learn/courses/30/lessons/134240)]
 - [[햄버거 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/133502)]
+- [[옹알이 (2)](https://school.programmers.co.kr/learn/courses/30/lessons/133499)]
