@@ -24,3 +24,4 @@
 - [[옹알이 (2)](https://school.programmers.co.kr/learn/courses/30/lessons/133499)]
 - [[콜라 문제](https://school.programmers.co.kr/learn/courses/30/lessons/133499)]
 - [[삼총사 문제](https://school.programmers.co.kr/learn/courses/30/lessons/131705)]
+- [[성격유형검사하기 문제](https://school.programmers.co.kr/learn/courses/30/lessons/118666)]
