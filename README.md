@@ -27,3 +27,4 @@
 - [[성격유형검사하기 문제](https://school.programmers.co.kr/learn/courses/30/lessons/118666)]
 - [[신고 결과 받기 문제](https://school.programmers.co.kr/learn/courses/30/lessons/92334)]
 - [[비밀지도 문제](https://school.programmers.co.kr/learn/courses/30/lessons/17681)]
+- [[크레인 인형 뽑기 문제](https://school.programmers.co.kr/learn/courses/30/lessons/64061)]
