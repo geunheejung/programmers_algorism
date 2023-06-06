@@ -29,3 +29,4 @@
 - [[비밀지도 문제](https://school.programmers.co.kr/learn/courses/30/lessons/17681)]
 - [[크레인 인형 뽑기 문제](https://school.programmers.co.kr/learn/courses/30/lessons/64061)]
 - [[실패율 문제](https://school.programmers.co.kr/learn/courses/30/lessons/42889)]
+- [[신규아이디 추천 문제](https://school.programmers.co.kr/learn/courses/30/lessons/72410)]
