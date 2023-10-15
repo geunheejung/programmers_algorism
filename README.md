@@ -30,3 +30,4 @@
 - [[크레인 인형 뽑기 문제](https://school.programmers.co.kr/learn/courses/30/lessons/64061)]
 - [[실패율 문제](https://school.programmers.co.kr/learn/courses/30/lessons/42889)]
 - [[신규아이디 추천 문제](https://school.programmers.co.kr/learn/courses/30/lessons/72410)]
+- [[로또의 최고 순위와 최저 순위](https://school.programmers.co.kr/learn/courses/30/lessons/77484)]

@@ -1,23 +1,35 @@
 function solution(lottos, win_nums) {
   var answer = [];
+  const _getRank = (matchedCount) => {
+    const resultTable = {
+      6: 1,
+      5: 2,
+      4: 3,
+      3: 4,
+      2: 5,
+    };
 
-  const resultTable = {
-    1: 6,
-    2: 5,
-    3: 4,
-    4: 3,
-    5: 2,
-    6: 0,
+    const rank = resultTable[matchedCount] || 6;
+    return rank;
   };
+
+  const winNumsSet = new Set(win_nums);
+
+  let matchedCount = 0;
+  let damagedDataCount = 0;
+
+  lottos.forEach((row) => {
+    if (winNumsSet.has(row)) {
+      matchedCount += 1;
+    } else if (row === 0) {
+      damagedDataCount += 1;
+    }
+  });
+
+  let lowestRank = _getRank(matchedCount);
+  let highestRank = _getRank(matchedCount + damagedDataCount);
+
+  answer.push(highestRank, lowestRank);
 
   return answer;
 }
-
-/*
-[44, 1, 0, 0, 31, 25]	[31, 10, 45, 1, 6, 19]	[3, 5]
-[0, 0, 0, 0, 0, 0]	[38, 19, 20, 40, 15, 25]	[1, 6]
-[45, 4, 35, 20, 3, 9]	[20, 9, 3, 45, 4, 35]	[1, 1]
-*/
-const res1 = solution([44, 1, 0, 0, 31, 25], [31, 10, 45, 1, 6, 19]);
-const res2 = solution([0, 0, 0, 0, 0, 0], [38, 19, 20, 40, 15, 25]);
-const res3 = solution([45, 4, 35, 20, 3, 9], [20, 9, 3, 45, 4, 35]);
